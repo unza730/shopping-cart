@@ -91,4 +91,4 @@ const tshirts = [
   },
 ];
 
-module.exports = tshirts;
+export default tshirts;
